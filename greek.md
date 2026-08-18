@@ -2,7 +2,7 @@
 ### The ___Greek___ Alphabet
 
 | Greek uppercase | Greek lowercase | Phonetics |
-| :---: | :---: | :---: |
+| :---: | :---: | :--- |
 | Α | α |Alpha|
 | Β | β |Beta|
 | Γ | γ |Gamma|
